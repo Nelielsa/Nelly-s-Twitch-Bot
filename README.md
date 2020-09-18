@@ -6,7 +6,8 @@
 *This page is work in progress, it will take some time to get all the details down so be patient please.*
 *The wiki page will be made and filled with the proper information over time.*
 
-This bot was originally made as a BitBot for Escape from Tarkov but it was improved upon and made into a generic Twitch Bot which contains BitBot Features as well as many more.
+**What is Nelly's Twitch Bot?**
+It is a Twitch Bot that contains Channel Points and Bits features to make your chat more interactive and have fun while you stream, they can press keys ingame, play sounds, issue commands, participate in giveaways, you can also have announcements as well as set notifications for any event happening.
 
 **Social Media**
 - Twitch:  https://www.twitch.tv/nelielsa
