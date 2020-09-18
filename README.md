@@ -4,6 +4,7 @@
 [![Watch the video](https://i.ytimg.com/vi/a5PEP8DDSJE/maxresdefault.jpg)](https://www.youtube.com/watch?v=a5PEP8DDSJE)
 
 *This page is work in progress, it will take some time to get all the details down so be patient please.*
+*The wiki page will be made and filled with the proper information over time.*
 
 This bot was originally made as a BitBot for Escape from Tarkov but it was improved upon and made into a generic Twitch Bot which contains BitBot Features as well as many more.
 
