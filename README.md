@@ -1,3 +1,4 @@
+
 **Nelly's Twitch Bot**
 
 [![Watch the video](https://i.ytimg.com/vi/a5PEP8DDSJE/maxresdefault.jpg)](https://www.youtube.com/watch?v=a5PEP8DDSJE)
@@ -7,9 +8,9 @@
 This bot was originally made as a BitBot for Escape from Tarkov but it was improved upon and made into a generic Twitch Bot which contains BitBot Features as well as many more.
 
 **Social Media**
-Twitch: https://www.twitch.tv/nelielsa
-Youtube: https://www.youtube.com/c/Nelielsa
-Discord: https://discord.gg/7Vcs56C
+> Twitch: https://www.twitch.tv/nelielsa
+> Youtube: https://www.youtube.com/c/Nelielsa
+> Discord: https://discord.gg/7Vcs56C
 
 **Features:**
  - Announcements
@@ -27,7 +28,7 @@ Discord: https://discord.gg/7Vcs56C
 - Go to https://www.twitch.tv/nelielsa and click follow (you can't use it unless you follow)
 - Open "Nelly's Twitch Bot".
 - Enter "Username".
- - Generate "Access Token" (click the link) with the following on YES:
+- Generate "Access Token" (click the link) with the following on YES:
      > user_read
      > channel_read
      > channel_subscriptions
