@@ -41,6 +41,7 @@ This bot was originally made as a BitBot for Escape from Tarkov but it was impro
 - Copy ClientID into "ClientID" on the bot
 - Enter "Bot Username", access token and ClientID for the custom bot as well, if you don't have one use your own channel name.
 - Click Start.
+
 *Optional: Tutorial video (old) https://www.youtube.com/watch?v=cOdKMTlZLgE*
 
 **How each module works:**
