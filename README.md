@@ -8,10 +8,10 @@
 This bot was originally made as a BitBot for Escape from Tarkov but it was improved upon and made into a generic Twitch Bot which contains BitBot Features as well as many more.
 
 **Social Media**
-Twitch: > https://www.twitch.tv/nelielsa
-Youtube: > https://www.youtube.com/c/Nelielsa
-Twitter: > https://twitter.com/Neliel_sa
-Discord: > https://discord.gg/7Vcs56C
+- Twitch:  https://www.twitch.tv/nelielsa
+- Youtube:  https://www.youtube.com/c/Nelielsa
+- Twitter:  https://twitter.com/Neliel_sa
+- Discord:  https://discord.gg/7Vcs56C
 
 **Features:**
  - Announcements
