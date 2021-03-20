@@ -70,3 +70,8 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 
 > **My points/bits will not trigger the actions i have put in**
 > Make sure you always save/quicksave your settings before testing as any changes done is not automatically changed.
+
+> **The Bot tells me i'm missing credentials**
+> If it does that then click "Continue" and see if it works with channel points, if it does then it's just a false error due to Twitch API.
+
+**NOTE: The bot might disconnect after 4 hours of usage, just restart the bot and it works fine again, this is an issue i'm working hard on to fix.**
