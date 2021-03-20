@@ -26,7 +26,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
  - Giveaways
 
 **How to use:**
-- Go to https://www.twitch.tv/nelielsa and click follow (you can't use it unless you follow)
+- Go to https://www.twitch.tv/cathienna and click follow (you can't use it unless you follow)
 - Open "Cathie's Twitch Bot".
 - Enter "Username".
 - Generate "Access Token" (click the link) with the following on YES:
