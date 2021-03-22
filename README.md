@@ -51,6 +51,9 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 **How each module works:**
 *Coming soon...*
 
+**Got suggestions? slap them in the Issues section**
+> https://github.com/Cathienna/Cathie-s-Twitch-Bot/issues
+
 **Known Games that work with Hotkeys:**
 
  - Escape From Tarkov
