@@ -65,6 +65,9 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 
 **FAQ:**
 
+> **I have issues and i need help**
+> Join my discord and post your issues in the Issues section, i'll help ASAP. https://discord.gg/8MQqy2nvs5
+
 > **Why doesn't some hotkeys work in the game i'm playing?**
 > *Some games have a different method of "keypress" which means the bot will not fully work with them, this is being worked on as time goes but please report this in the bug/report section on discord so we know what games and what keys aren't working.*
 
