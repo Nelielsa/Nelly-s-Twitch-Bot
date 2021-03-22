@@ -54,6 +54,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
      > *moderation:read*
      
      > *channel:read:redemptions*
+     
      ps: if you're lazy just select all, this only allows the bot to read your twitch channel.
      
 - Copy access token into "Access Token" on the bot.
@@ -82,6 +83,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 > Annihilatrix - https://www.twitch.tv/annihilatrix
 
 > VoX_E - https://www.twitch.tv/vox_e
+
 *if you want to be on the list then DM me.*
 
 **FAQ:**
