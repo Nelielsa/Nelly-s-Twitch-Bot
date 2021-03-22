@@ -7,11 +7,6 @@
 **What is Cathie's Twitch Bot?**
 It is a Twitch Bot that contains Channel Points and Bits features to make your chat more interactive and have fun while you stream, they can press keys ingame, play sounds, issue commands, participate in giveaways, you can also have announcements as well as set notifications for any event happening.
 
-**Social Media**
-- Twitch:  https://www.twitch.tv/cathienna
-- Youtube:  https://www.youtube.com/channel/UChcTDTCAtFbQeDxCm1fMqyQ
-- Twitter:  https://twitter.com/cathienna
-- Discord:  https://discord.gg/8MQqy2nvs5
 
 **Features:**
  - Announcements
@@ -25,6 +20,12 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
  - Chat, Activity log & Viewerlist
  - Giveaways
 
+**Social Media**
+- Twitch:  https://www.twitch.tv/cathienna
+- Youtube:  https://www.youtube.com/channel/UChcTDTCAtFbQeDxCm1fMqyQ
+- Twitter:  https://twitter.com/cathienna
+- Discord:  https://discord.gg/8MQqy2nvs5
+- 
 **How to use:**
 - Go to https://www.twitch.tv/cathienna and click follow (you can't use it unless you follow)
 - Open "Cathie's Twitch Bot".
@@ -62,6 +63,12 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
  - Overwatch
  - Fortnite
  - more info being added soon...
+
+**Content Creators using the Twitch Bot**
+> Cathienna - https://www.twitch.tv/cathienna
+> Annihilatrix - https://www.twitch.tv/annihilatrix
+> VoX_E - https://www.twitch.tv/vox_e
+*if you want to be on the list then DM me.*
 
 **FAQ:**
 
