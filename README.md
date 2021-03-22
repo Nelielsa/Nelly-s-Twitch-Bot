@@ -25,24 +25,24 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 - Youtube:  https://www.youtube.com/channel/UChcTDTCAtFbQeDxCm1fMqyQ
 - Twitter:  https://twitter.com/cathienna
 - Discord:  https://discord.gg/8MQqy2nvs5
-- 
+
 **How to use:**
 - Go to https://www.twitch.tv/cathienna and click follow (you can't use it unless you follow)
 - Open "Cathie's Twitch Bot".
 - Enter "Username".
 - Generate "Access Token" (click the link) with the following on YES:
-     > user_read
-     > channel_read
-     > channel_subscriptions
-     > user_subscription
-     > chat_login
-     > channel_feed_read
-     > bits:read
-     > user:read:broadcast
-     > chat:read
-     > channel:read:subscriptions
-     > moderation:read
-     > channel:read:redemptions
+     > *user_read*
+     > *channel_read*
+     > *channel_subscriptions*
+     > *user_subscription*
+     > *chat_login*
+     > *channel_feed_read*
+     > *bits:read*
+     > *user:read:broadcast*
+     > *chat:read*
+     > *channel:read:subscriptions*
+     > *moderation:read*
+     > *channel:read:redemptions*
      ps: if you're lazy just select all, this only allows the bot to read your twitch channel.
 - Copy access token into "Access Token" on the bot.
 - Copy ClientID into "ClientID" on the bot
