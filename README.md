@@ -32,18 +32,30 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 - Enter "Username".
 - Generate "Access Token" (click the link) with the following on YES:
      > *user_read*
+
      > *channel_read*
+     
      > *channel_subscriptions*
+     
      > *user_subscription*
+     
      > *chat_login*
+     
      > *channel_feed_read*
+     
      > *bits:read*
+     
      > *user:read:broadcast*
+     
      > *chat:read*
+     
      > *channel:read:subscriptions*
+     
      > *moderation:read*
+     
      > *channel:read:redemptions*
      ps: if you're lazy just select all, this only allows the bot to read your twitch channel.
+     
 - Copy access token into "Access Token" on the bot.
 - Copy ClientID into "ClientID" on the bot
 - Enter "Bot Username", access token and ClientID for the custom bot as well, if you don't have one use your own channel name.
@@ -66,7 +78,9 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 
 **Content Creators using the Twitch Bot**
 > Cathienna - https://www.twitch.tv/cathienna
+
 > Annihilatrix - https://www.twitch.tv/annihilatrix
+
 > VoX_E - https://www.twitch.tv/vox_e
 *if you want to be on the list then DM me.*
 
