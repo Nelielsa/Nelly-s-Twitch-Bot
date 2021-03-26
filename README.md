@@ -27,6 +27,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 - Discord:  https://discord.gg/8MQqy2nvs5
 
 **How to use:**
+- Download latest version at https://github.com/Cathienna/Cathie-s-Twitch-Bot/releases
 - Go to https://www.twitch.tv/cathienna and click follow (you can't use it unless you follow)
 - Open "Cathie's Twitch Bot".
 - Enter "Username".
