@@ -58,6 +58,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
      
      ps: if you're lazy just select all, this only allows the bot to read your twitch channel.
      
+- Click Generate Token
 - Copy access token into "Access Token" on the bot.
 - Copy ClientID into "ClientID" on the bot
 - Enter "Bot Username", access token and ClientID for the custom bot as well, if you don't have one use your own channel name.
