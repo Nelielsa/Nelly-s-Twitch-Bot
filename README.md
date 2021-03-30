@@ -61,7 +61,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 - Click Generate Token
 - Copy access token into "Access Token" on the bot.
 - Copy ClientID into "ClientID" on the bot
-- Enter "Bot Username", access token and ClientID for the custom bot as well, if you don't have one use your own channel name.
+- [Optional] Enter "Bot Username", access token and ClientID for the custom bot as well, if you don't have one then just leave it blank.
 - Click Start.
 
 **How each module works:**
