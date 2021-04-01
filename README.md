@@ -87,6 +87,8 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 
 > VoX_E - https://www.twitch.tv/vox_e
 
+> SlushPuppy - https://www.twitch.tv/slushpuppy
+
 *if you want to be on the list then DM me.*
 
 **FAQ:**
