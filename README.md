@@ -65,6 +65,13 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 - [Optional] Enter "Bot Username", access token and ClientID for the custom bot as well, if you don't have one then just leave it blank.
 - Click Start.
 
+**How to update the bot:**
+- Replace the files into the existing folder you have
+
+- Manually load the config files
+
+- You're done.
+
 **How each module works:**
 *Coming soon...*
 
