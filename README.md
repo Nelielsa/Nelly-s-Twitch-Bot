@@ -21,11 +21,13 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
  - Chat, Activity log & Viewerlist
  - Giveaways
 
+
 **Social Media**
 - Twitch:  https://www.twitch.tv/cathienna
 - Youtube:  https://www.youtube.com/channel/UChcTDTCAtFbQeDxCm1fMqyQ
 - Twitter:  https://twitter.com/cathienna
 - Discord:  https://discord.gg/8MQqy2nvs5
+
 
 **How to use:**
 - Download latest version at https://github.com/Cathienna/Cathie-s-Twitch-Bot/releases
@@ -65,6 +67,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 - [Optional] Enter "Bot Username", access token and ClientID for the custom bot as well, if you don't have one then just leave it blank.
 - Click Start.
 
+
 **How to update the bot:**
 - Replace the files into the existing folder you have
 
@@ -72,11 +75,14 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 
 - You're done.
 
+
 **How each module works:**
 *Coming soon...*
 
+
 **Got suggestions? slap them in the Issues section in my discord**
 > https://discord.gg/8MQqy2nvs5
+
 
 **Known Games that work with Hotkeys:**
 
@@ -86,6 +92,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
  - Overwatch
  - Fortnite
  - more info being added soon...
+
 
 **Content Creators using the Twitch Bot**
 > Cathienna - https://www.twitch.tv/cathienna
@@ -97,6 +104,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 > SlushPuppy - https://www.twitch.tv/slushpuppy
 
 *if you want to be on the list then DM me.*
+
 
 **FAQ:**
 
