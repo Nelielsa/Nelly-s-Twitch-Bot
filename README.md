@@ -1,8 +1,8 @@
 
 ![Example](https://dl.dropboxusercontent.com/s/6pitgfz2dqyw9j4/Twitch%20Bot%20Panel.png)
 
-*This page is work in progress, it will take some time to get all the details down so be patient please.*
-*The wiki page will be made and filled with the proper information over time.*
+*The information about the bot is work in progress, it will take some time to get all the details down so be patient please.*
+*The wiki page is being made and is being filled with the proper information.*
 
 **What is Cathie's Twitch Bot?**
 It is a Twitch Bot that contains Channel Points and Bits features to make your chat more interactive and have fun while you stream, they can press keys ingame, play sounds, issue commands, participate in giveaways, you can also have announcements as well as set notifications for any event happening.
