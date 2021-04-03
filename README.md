@@ -1,5 +1,4 @@
 
-**Cathie's Twitch Bot**
 ![Example](https://dl.dropboxusercontent.com/s/6pitgfz2dqyw9j4/Twitch%20Bot%20Panel.png)
 
 *This page is work in progress, it will take some time to get all the details down so be patient please.*
