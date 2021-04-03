@@ -31,8 +31,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 
 **How to use:**
 - Download latest version at https://github.com/Cathienna/Cathie-s-Twitch-Bot/releases
-- Go to (The Wiki How To)[https://github.com/Cathienna/Cathie-s-Twitch-Bot/wiki/1.-Login ]
-- 
+- Follow the Login guide: https://github.com/Cathienna/Cathie-s-Twitch-Bot/wiki/1.-Login
 
 **How to update the bot:**
 - Replace the files into the existing folder you have
