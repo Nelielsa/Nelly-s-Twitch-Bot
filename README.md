@@ -31,42 +31,8 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 
 **How to use:**
 - Download latest version at https://github.com/Cathienna/Cathie-s-Twitch-Bot/releases
-- Go to https://www.twitch.tv/cathienna and click follow (you can't use it unless you follow)
-- Open "Cathie's Twitch Bot".
-- Enter "Username".
-- Generate "Access Token" (click the link) with the following on YES:
-     > *user_read*
-
-     > *channel_read*
-     
-     > *channel_subscriptions*
-     
-     > *user_subscription*
-     
-     > *chat_login*
-     
-     > *channel_feed_read*
-     
-     > *bits:read*
-     
-     > *user:read:broadcast*
-     
-     > *chat:read*
-     
-     > *channel:read:subscriptions*
-     
-     > *moderation:read*
-     
-     > *channel:read:redemptions*
-     
-     ps: if you're lazy just select all, this only allows the bot to read your twitch channel.
-     
-- Click Generate Token
-- Copy access token into "Access Token" on the bot.
-- Copy ClientID into "ClientID" on the bot
-- [Optional] Enter "Bot Username", access token and ClientID for the custom bot as well, if you don't have one then just leave it blank.
-- Click Start.
-
+- Go to (The Wiki How To)[https://github.com/Cathienna/Cathie-s-Twitch-Bot/wiki/1.-Login ]
+- 
 
 **How to update the bot:**
 - Replace the files into the existing folder you have
