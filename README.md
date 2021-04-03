@@ -1,6 +1,6 @@
 
 **Cathie's Twitch Bot**
-![Example](https://dl.dropboxusercontent.com/s/mu618cvfqbjj4pi/Cathie%27s_Twitch_Bot_2021-04-02_17-16-38.png)
+![Example](https://dl.dropboxusercontent.com/s/6pitgfz2dqyw9j4/Twitch%20Bot%20Panel.png)
 
 *This page is work in progress, it will take some time to get all the details down so be patient please.*
 *The wiki page will be made and filled with the proper information over time.*
