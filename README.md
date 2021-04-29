@@ -9,7 +9,6 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 
 
 **Features:**
- - Announcements
  - Hotkeys with Bits & Channel Points
  - Sounds with Bits & Channel Points
  - Commands with Bits & Channel Points
@@ -18,7 +17,6 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
  - Custom Commands
  - Custom Command Sounds
  - Chat, Activity log & Viewerlist
- - Giveaways
 
 
 **Social Media**
