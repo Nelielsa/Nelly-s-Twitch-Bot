@@ -1,5 +1,5 @@
 
-![Example](https://dl.dropboxusercontent.com/s/6pitgfz2dqyw9j4/Twitch%20Bot%20Panel.png)
+![Example](https://dl.dropboxusercontent.com/s/f68ba5q3u6e1tut/Twitch%20Bot%20Panel.png)
 
 *The information about the bot is work in progress, it will take some time to get all the details down so be patient please.*
 *The wiki page is being made and is being filled with the proper information.*
