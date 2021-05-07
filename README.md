@@ -49,7 +49,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
  - Apex Legends
  - Overwatch
  - Fortnite
- - more info being added soon...
+ - And many more...
 
 # How to support me and stay updated to the bot
 > **[Discord](https://discord.gg/8MQqy2nvs5)** (For future updates and support of the bot)
