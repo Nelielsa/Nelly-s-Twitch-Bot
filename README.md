@@ -17,6 +17,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
  - Custom Commands
  - Custom Command Sounds
  - Chat, Activity log & Viewerlist
+ - Personal Viewer Commands
 
 
 # Download
