@@ -35,7 +35,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 
 # How each module works:
 - [How to setup Hotkeys](https://github.com/Cathienna/Cathie-s-Twitch-Bot/wiki/2.-BitBot-Hotkeys)
-*Coming soon...*
+- *More coming soon...*
 
 
 # Got suggestions?
